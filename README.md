@@ -1,4 +1,4 @@
-# Amber_salt_ions_concentration_calculater
+# Amber_salt_ions_concentration_calculator
 
 This code calculates the number of ions to be added to an amber system based on the salt concentration you want in your system. 
 
