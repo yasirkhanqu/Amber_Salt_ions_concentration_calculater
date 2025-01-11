@@ -8,7 +8,7 @@ When you run this code, it will ask for volume in Å3. Enter the value as 20814
 
 Note: These ions will be added to the number of ions you add to neutralise the system. 
 
-# Amber_salt_ions_concentration_calculater(SPLIT_method) - Recommended one 
+# Amber_salt_ions_concentration_calculator (SPLIT_method) - Recommended one 
 
 This method is based on Machado et al., 2020 (J. Chem. Theory Comput. 2020, 16, 3, 1367–1372) All credits go to the original authors of the paper.
 
